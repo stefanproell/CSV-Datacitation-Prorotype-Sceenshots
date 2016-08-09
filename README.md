@@ -1,2 +1,2 @@
-# CSV-Datacitation-Prorotype-Sceenshots
-Screenshots of the CSV Prorotype
+# CSV-Datacitation-Prototype-Sceenshots
+Screenshots of the CSV Prototype
